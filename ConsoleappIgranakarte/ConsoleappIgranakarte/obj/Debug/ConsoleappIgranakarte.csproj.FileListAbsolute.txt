@@ -1,0 +1,7 @@
+C:\Users\Učenik\source\repos\ConsoleappIgranakarte\ConsoleappIgranakarte\bin\Debug\ConsoleappIgranakarte.exe.config
+C:\Users\Učenik\source\repos\ConsoleappIgranakarte\ConsoleappIgranakarte\bin\Debug\ConsoleappIgranakarte.exe
+C:\Users\Učenik\source\repos\ConsoleappIgranakarte\ConsoleappIgranakarte\bin\Debug\ConsoleappIgranakarte.pdb
+C:\Users\Učenik\source\repos\ConsoleappIgranakarte\ConsoleappIgranakarte\obj\Debug\ConsoleappIgranakarte.csproj.AssemblyReference.cache
+C:\Users\Učenik\source\repos\ConsoleappIgranakarte\ConsoleappIgranakarte\obj\Debug\ConsoleappIgranakarte.csproj.CoreCompileInputs.cache
+C:\Users\Učenik\source\repos\ConsoleappIgranakarte\ConsoleappIgranakarte\obj\Debug\ConsoleappIgranakarte.exe
+C:\Users\Učenik\source\repos\ConsoleappIgranakarte\ConsoleappIgranakarte\obj\Debug\ConsoleappIgranakarte.pdb
